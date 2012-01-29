@@ -1,0 +1,11 @@
+Movement is a simple interactive game which uses images captured from user's
+webcam.
+The goal is to get as much red balls as you can while it falls from screen.
+
+The game was written in Python using OpenCV framework and helps to demonstrate
+how to use Python+OpenCV to capture user's webcam and make a game of it.
+
+To run the game you must have python's opencv module installed. On most linux
+distributions you can achieve that by simply installing opencv package (which
+will also install python modules). If that's not the case, try installing
+through pip (pip install pyopencv)
