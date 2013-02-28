@@ -9,3 +9,5 @@ To run the game you must have python's opencv module installed. On most linux
 distributions you can achieve that by simply installing opencv package (which
 will also install python modules). If that's not the case, try installing
 through pip (pip install pyopencv)
+
+Gameplay: http://youtu.be/gaeJX2A8GvA
